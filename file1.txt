@@ -1,1 +1,2 @@
 This is my text1 file
+This is the updated text1 file
